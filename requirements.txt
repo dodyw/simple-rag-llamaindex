@@ -1,0 +1,8 @@
+llama-index
+streamlit
+python-dotenv
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index-vector-stores-azureaisearch
+llama-index-vector-stores-pinecone
+pinecone-client
